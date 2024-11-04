@@ -3,6 +3,7 @@ public class LinearEquationRunner {
         System.out.println("hello");
         System.out.println("goodbye");
         System.out.println("hello");
+        System.out.println("goodbye");
     }
 
 }
